@@ -7,10 +7,10 @@ class logical{
          System.out.println(1>8||5<8);//OR OPERATOR
          System.out.println(1>8||5>8);
          //LOGICAL NOT OPERATOR
-         int u=11;
-         boolean v = (a>4);
+         int k=11;
+         boolean v = (k>4);
          System.out.println(v);
-         v = !(a>4);
+         v = !(k>4);
          System.out.println(v);
     }
 }
