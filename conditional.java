@@ -1,5 +1,5 @@
 import java.util.*;
-class arithmatic{
+class conditional{
     public static void main(String a[]) {
         int a=11,b=22,c;
         c = a>b ? a : b ;
