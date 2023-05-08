@@ -1,5 +1,5 @@
 import java.util.*;
-class arithmatic{
+class operator{
     public static void main(String a[]) {
         int x=11,y=22;
         x++ ;
