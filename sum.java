@@ -9,7 +9,7 @@ class sum{
          a=ob.nextInt();
 
          System.out.println("Enter 2nd Number ");
-         b=ob.nextInt();11
+         b=ob.nextInt();
 
          sum = a + b;
          System.out.print("Sum of Two Numbers Are "+sum);
