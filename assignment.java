@@ -1,5 +1,5 @@
 import java.util.*;
-class arithmatic{
+class Assignment{
     public static void main(String a[]) {
         int m=11,n=22;
         m+=5;
