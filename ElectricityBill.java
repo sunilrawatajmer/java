@@ -17,6 +17,7 @@ class Job{
             System.out.println(r);
         }
 
+        
         if(u>200 && u<=500){
             r=u*8;
             System.out.println(r);
