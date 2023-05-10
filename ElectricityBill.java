@@ -1,7 +1,7 @@
 import java.util.*;
 class Job{
     public static void main(String arr[]) {
-        int u,b;
+        int u,r;
         Scanner ob = new Scanner(System.in);
 
         System.out.println("Enter Unit ");
