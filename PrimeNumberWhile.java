@@ -9,7 +9,7 @@ class table{
 
         while(i<a){
 
-            if(a%2==0){
+            if(a%i==0){
                 x++;
             }
             i++;
