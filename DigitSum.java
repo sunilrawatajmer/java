@@ -1,5 +1,5 @@
 import java.util.*;
-class table{
+class digitsum{
     public static void main(String arr[]) {
         int a,r=0,sum=0;
         Scanner ob = new Scanner(System.in);
