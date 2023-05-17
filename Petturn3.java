@@ -1,4 +1,12 @@
-import java.util.*;
+/*
+ 
+*****
+****
+***
+**
+*
+
+ */
 class patt{
     public static void main(String arr[]) {
         int i,j;
