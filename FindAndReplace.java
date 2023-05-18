@@ -7,7 +7,7 @@ class FindAndReplace {
         System.out.print("Enter Array Size : ");
         size=ob.nextInt();
         a=new int[size];
-        System.out.println("Enter 10 Elements : ");
+        System.out.println("Enter Elements : ");
         for(i=0;i<a.length;i++){
             a[i]=ob.nextInt();
         }
@@ -23,6 +23,7 @@ class FindAndReplace {
         System.out.print("Enter Replace NUmber : ");
         replace=ob.nextInt();
         
+        System.out.println("After Replace : ");
         for(i=0;i<a.length;i++){
             if(a[i]==search){
                 a[i]=replace;
