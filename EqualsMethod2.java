@@ -31,6 +31,10 @@ class Example
             if(st[i].equals(search)){
                 System.out.print("String is Finded.");
             }
+            else{
+                System.out.print("String is not Finded.");
+                break;
+            }
         }
          
     }
