@@ -1,6 +1,5 @@
 class ForEachLoop3 {
-    public static void main{
-
+    public static void main(String arr[]){
     int a[]={10,20,30,40,60};
     System.out.println("Array Elemrnt - ");
     for(int i : a){
