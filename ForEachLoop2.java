@@ -1,4 +1,3 @@
-import java.util.*;
 class ForEachLoop2 {
     public static void main(String s[]){
         int a[]={1,2,3,4,5};
