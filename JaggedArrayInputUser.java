@@ -1,4 +1,3 @@
-import java.net.SocketPermission;
 import java.util.Scanner;
 public class JaggedArrayInputUser {
     public static void main(String s[]) {
