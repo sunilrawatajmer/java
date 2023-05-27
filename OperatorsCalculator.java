@@ -16,6 +16,7 @@ public class OperatorsCalculator {
             System.out.println("Press 4 for Decrement Operator ");
             System.out.println("Press 5 for Logical Operator ");
             System.out.println("Press 6 for Relational Operator ");
+            System.out.println("Press 0 to Exit ");
 
             System.out.print("Enter Your Choise : ");
             choise = ob.nextInt();
