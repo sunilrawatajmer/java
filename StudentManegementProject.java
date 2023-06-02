@@ -33,7 +33,7 @@ class StudentManegementProject {
             int rollnumber = ob.nextInt();
             System.out.print("Enter age : ");
             int age = ob.nextInt();
-            allstudent.add(new Student(name,Mothername,Fathername,Classname,age, rollnumber));
+            allstudent.add(new Student(name,Mothername,Fathername,Classname,rollnumber,age));
             break;
 
             case 2:
@@ -41,7 +41,7 @@ class StudentManegementProject {
             System.out.print("Enter Student RollNumber : ");
             int Deleterollnumber = ob.nextInt();
             for(int i=0; i<allstudent.size();i++){
-            if(Deleterollnumber == allstudent.get(i).rollnumber);
+            if(Deleterollnumber == allstudent.get(i).rollnumber)
             {
                 allstudent.remove(i);
             }
