@@ -2,6 +2,7 @@
  This is Common Variable of Class Objects 
  This is Not Uniique For All Objects 
  Ints Take Space Once Time in class
+ 
 */
 
 class Demo1{
