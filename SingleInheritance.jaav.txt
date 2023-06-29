@@ -1,0 +1,23 @@
+class Parant {
+    int a;
+    void parantMethod(){
+        System.out.println("This is Parent Class Method - "+a);
+    }
+}
+
+class Child extends Parant {
+    int b;
+    void ChildMethod(){
+        System.out.println("This is Child Class Method - "+b);
+    }
+}
+
+class SingleInheritance{
+    public static void main(String arr[]){
+        Child ob1 = new Child();
+        ob1.a=10;
+        ob1.b=20;
+        ob1.ChildMethod();
+        ob1.parantMethod();
+    }
+}
